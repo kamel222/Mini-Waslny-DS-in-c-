@@ -1,0 +1,16 @@
+vertex
+a
+b
+c
+connection
+c
+b
+100
+connection
+c
+a
+200
+connection
+a
+b
+50

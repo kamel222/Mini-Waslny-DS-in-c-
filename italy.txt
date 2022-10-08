@@ -1,0 +1,16 @@
+vertex
+roma
+milan
+naboli
+connection
+roma
+milan
+582
+connection
+milan
+napoli
+775
+connection
+roma
+naboli
+227
